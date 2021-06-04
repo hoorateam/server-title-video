@@ -20,7 +20,7 @@
   "نام آموزش 18": "𝓒𝓸𝓭𝓮 𝓪𝓫𝔃𝓪𝓻",
   "نام آموزش 19": "𝓒𝓸𝓭𝓮 𝓪𝓫𝔃𝓪𝓻",
   "نام آموزش 20": "𝓒𝓸𝓭𝓮 𝓪𝓫𝔃𝓪𝓻",
-  "لینک ویدیو": "https://uupload.ir/view/edited_20210604_150441_5qe8.mp4/",
+  "لینک ویدیو": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/533dea45100e4de6cf4ca3063ea7dc3934089652-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjU4YWNhNmYxNmIyODczZTZjOTQ4ODU1ZTMxYTk0NzFlIiwiZXhwIjoxNjIyODMzOTg4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.RQCIyndgNRbVAJxpH8hvs0hyplAQO9WOzsOl4mvmR_I",
   "لینک ویدیو 1": "𝓒𝓸𝓭𝓮 𝓪𝓫𝔃𝓪𝓻",
   "لینک ویدیو 2": "𝓒𝓸𝓭𝓮 𝓪𝓫𝔃𝓪𝓻",
   "لینک ویدیو 3": "𝓒𝓸𝓭𝓮 𝓪𝓫𝔃𝓪𝓻",
